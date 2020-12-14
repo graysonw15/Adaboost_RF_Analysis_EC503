@@ -12,8 +12,8 @@ from Tree_opt import Tree
 figure, axes = plt.subplots(figsize=(5, 5), dpi=100)
 
 # Importing the datasets
-datasets = pd.read_csv('linearly_separable_in_one_d.csv')
-# there are other datasets you can load if you want namely linearly _separable_in_two_d,almost_linearly_separable 
+datasets = pd.read_csv('data/linearly_separable_in_two_d.csv')
+# there are other datasets you can load if you want namely data/linearly _separable_in_two_d, data/almost_linearly_separable 
 # if you want to see some other decision boundaries
 X = datasets.iloc[:, [0,1]].values
 Y = datasets.iloc[:, 2].values
