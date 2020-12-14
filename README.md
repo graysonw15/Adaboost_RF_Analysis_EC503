@@ -8,7 +8,7 @@
     * matplotlib
     * numpy
     * pickle
-    * scipy
+    * scipy.stats
     
 
 * To run decision trees demo:
