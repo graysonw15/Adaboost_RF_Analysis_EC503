@@ -11,3 +11,5 @@
 
 * To run adaboost demo:
     * run "python gaussian_classifier.py" and "linear_data_prediction.py" to get the evaluation of adaboost on the datasets shown in the report that contain a gaussian distribution or a easily separable dataset. Note for the "python linear_data_prediction.py" you have to alter the name of the csv file to experiment with all the linearly separable datasets. The linearly separable datasets are "linearly_separable_in_one_d.csv" and ""linearly_separable_in_two_d.csv".
+    * run ada_spirals.py to run the adaboost algorithm on the spiral dataset
+    * run ada_rw.py to run the adaboost algorithm on the real world dataset
