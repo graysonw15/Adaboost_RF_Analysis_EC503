@@ -1,5 +1,16 @@
 # EC503Proj - Instructions to Reproduce results
 
+
+* Packages required
+
+    * sklearn
+    * pandas
+    * matplotlib
+    * numpy
+    * pickle
+    * scipy
+    
+
 * To run decision trees demo:
     
     * run the main under the decision trees folder with "python main.py" and this will input some questions to the user on how to proceed. To make the dataset (once you get to that part) simply click on the purple grid.
